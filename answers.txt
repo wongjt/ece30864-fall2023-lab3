@@ -1,3 +1,8 @@
-1. The product owner supports the development of the team by backlogging/keping track of tasks (stories). In a non-agile team, they are the Project Manager or lead. They are important in the Agile methodology as this process is dependant on breaking down a project into phases, which the product owner is tracking.
+a. The product owner supports the development of the team by backlogging/keping track of tasks (stories). In a non-agile team, they are the Project Manager or lead. They are important in the Agile methodology as this process is dependant on breaking down a project into phases, which the product owner is tracking.
 
-2. The Scrum Master is an individual who leads a team via an Agile Project. The Scrum Master interacts with the team through the project while the Product owner interacts via feedback on on the product.  
+b. The Scrum Master is an individual who leads a team via an Agile Project. The Scrum Master interacts with the team through the project while the Product owner interacts via feedback on on the product. 
+
+c. Sprint Planning meeting, Daily Scrum/Standup Meeting, and Retrospective Meeting.
+Planning meeting: determine what to complete in the coming sprint, Start sprint.
+Daily Scrum/Standup: 10 mins long, Short meeting that happens every day of the sprint.
+Retrospective Meeting: at the end of the sprint, close sprint.   
