@@ -1,3 +1,3 @@
-1. The product owner supports the development of the team by backlogging/keping track of tasks (stories). They are important in the Agile methodology as this process is dependant on breaking down a project into phases, which the product owner is tracking.
+1. The product owner supports the development of the team by backlogging/keping track of tasks (stories). In a non-agile team, they are the Project Manager or lead. They are important in the Agile methodology as this process is dependant on breaking down a project into phases, which the product owner is tracking.
 
- 
+2. The Scrum Master is an individual who leads a team via an Agile Project. The Scrum Master interacts with the team through the project while the Product owner interacts via feedback on on the product.  
