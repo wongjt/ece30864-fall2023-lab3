@@ -5,4 +5,9 @@ b. The Scrum Master is an individual who leads a team via an Agile Project. The 
 c. Sprint Planning meeting, Daily Scrum/Standup Meeting, and Retrospective Meeting.
 Planning meeting: determine what to complete in the coming sprint, Start sprint.
 Daily Scrum/Standup: 10 mins long, Short meeting that happens every day of the sprint.
-Retrospective Meeting: at the end of the sprint, close sprint.   
+Retrospective Meeting: at the end of the sprint, close sprint.  
+
+d. An Epic Captures a large body of work that can be broken down into several smaller stories.
+A Story is a software system requirement that is expressed in a few short sentences.
+A Bug is a type of issue, but the smallest unit of work.
+Tasks are part of stories and they are "to-dos". 
